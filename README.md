@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=thisistaehun&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=taehuntesser&show_icons=true&theme=tokyonight">
 </td>
 <td valign="top" width="50%">
 <img align="" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kth5954">
