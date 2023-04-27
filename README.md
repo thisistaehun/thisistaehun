@@ -7,7 +7,6 @@
 
 ## 🪪 RECORD 📨
  🥷🏻 직무(Job Objectives): 백앤드 개발자(Backend Developer)</br>
- 🌍 블로그(Blog): https://velog.io/@itscool</br>
  💡 노션(Notion): https://www.notion.so/c804c9257c4b49d99a2df4ed2a2b2e1f</br>
  
 </br>
