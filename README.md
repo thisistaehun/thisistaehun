@@ -7,7 +7,6 @@
 
 ## 🪪 RECORD 📨
  🥷🏻 직무(Job Objectives): 백앤드 개발자(Backend Developer)</br>
- 💡 노션(Notion): https://www.notion.so/c804c9257c4b49d99a2df4ed2a2b2e1f</br>
  
 </br>
 
@@ -19,13 +18,3 @@
 <a><img src="https://img.shields.io/badge/nestJS-E0234E?style=flat-square&logo=nestJS&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mySQL&logoColor=white"/></a>
 
-
-</br>
-
-## 🧑🏻‍💻 Educations 💻
- 🏫 대학교(University): 인하대학교(Inha Univ.)</br>
- 📖 전공(Major): 산업경영공학과 & 빅데이터분석 연계 전공 (Industrial Engineering & Bigdata Analysis)</br>
- (2019.03 ~ 2023.02)
-
-## 🪪 Certifications📋
-- 정보처리기사
